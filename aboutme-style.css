@@ -1,0 +1,35 @@
+h2{
+    color: rgb(109, 152, 168);
+    font-weight: 120;
+    font-size:3em;
+    font-style: normal;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    font-size: 5em;
+    font-weight: 200;
+    font-style: normal;
+    color: rgb(109, 152, 168);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+body{
+    background-color: rgb(93, 99, 105);
+}
+
+b{
+    color: yellow;
+}
+
+a{
+    color:red;
+}
+
+p{
+    color:white;
+}
+
+ul, ol{
+    color:white;
+}
