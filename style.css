@@ -23,11 +23,20 @@ b{
 }
 
 a{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
     color:red;
 }
 
 p{
     color:white;
+}
+
+p:first-letter{
+    font-size:1.5em;
 }
 
 ul, ol{
